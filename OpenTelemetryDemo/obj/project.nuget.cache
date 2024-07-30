@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LmANuG8H6XYRdJEzsmPXFd/CgrVLJj4oADydL1/BrXXbZ5undNXvdc0SnlENUf/bpjQOPgXRo7bYMMkzi4j3kQ==",
+  "dgSpecHash": "q0iflxP6TJTAV5Suu5BhrhaUkWirZw5ed7NXbFB9r+afk/aCvfbEswxA966W9XB+GMbE710U4eums9Ts/h9m8A==",
   "success": true,
-  "projectFilePath": "C:\\GitProjects\\OpenTelemetryDemo\\opentelemetrydemo\\OpenTelemetryDemo.csproj",
+  "projectFilePath": "C:\\GitProjects\\OpenTelemetryDemo\\OpenTelemetryDemo\\OpenTelemetryDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pvand\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\pvand\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

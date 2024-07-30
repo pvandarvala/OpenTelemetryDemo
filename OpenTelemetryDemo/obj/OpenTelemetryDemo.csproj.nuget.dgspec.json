@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitProjects\\OpenTelemetryDemo\\opentelemetrydemo\\OpenTelemetryDemo.csproj": {}
+    "C:\\GitProjects\\OpenTelemetryDemo\\OpenTelemetryDemo\\OpenTelemetryDemo.csproj": {}
   },
   "projects": {
-    "C:\\GitProjects\\OpenTelemetryDemo\\opentelemetrydemo\\OpenTelemetryDemo.csproj": {
+    "C:\\GitProjects\\OpenTelemetryDemo\\OpenTelemetryDemo\\OpenTelemetryDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitProjects\\OpenTelemetryDemo\\opentelemetrydemo\\OpenTelemetryDemo.csproj",
+        "projectUniqueName": "C:\\GitProjects\\OpenTelemetryDemo\\OpenTelemetryDemo\\OpenTelemetryDemo.csproj",
         "projectName": "OpenTelemetryDemo",
-        "projectPath": "C:\\GitProjects\\OpenTelemetryDemo\\opentelemetrydemo\\OpenTelemetryDemo.csproj",
+        "projectPath": "C:\\GitProjects\\OpenTelemetryDemo\\OpenTelemetryDemo\\OpenTelemetryDemo.csproj",
         "packagesPath": "C:\\Users\\pvand\\.nuget\\packages\\",
-        "outputPath": "C:\\GitProjects\\OpenTelemetryDemo\\opentelemetrydemo\\obj\\",
+        "outputPath": "C:\\GitProjects\\OpenTelemetryDemo\\OpenTelemetryDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

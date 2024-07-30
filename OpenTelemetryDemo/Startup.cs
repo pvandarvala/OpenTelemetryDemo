@@ -22,7 +22,7 @@ namespace OpenTelemetryDemo
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-                        
+            app.UseTraceIdLogging();
             if (env.IsDevelopment())
             {
                 //app.UseDeveloperExceptionPage();
